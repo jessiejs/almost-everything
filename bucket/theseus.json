@@ -1,0 +1,7 @@
+{
+	"version": "0.6.1",
+	"url": "https://launcher-files.modrinth.com/versions/0.6.1/windows/Modrinth%20App_0.6.1_x64_en-US.msi#/dl.7z",
+	"description": "The Modrinth Minecraft launcher",
+	"license": "Unknown",
+	"bin": "Modrinth App.exe"
+}
