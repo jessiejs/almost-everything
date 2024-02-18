@@ -1,19 +1,18 @@
 {
-    "version": "1.9.3",
+    "version": "1.10.1",
     "description": "Turbowarp",
     "homepage": "https://turbowarp.org/",
     "license": {
         "identifier": "MIT",
         "url": "https://github.com/TurboWarp"
     },
-    "url": "https://github.com/TurboWarp/desktop/releases/download/v1.9.3/TurboWarp-Portable-1.9.3-x64.exe",
-	"hash": "6817e56f50a8acb5fefeb26565135b4d8b61a9a68cf29fad7dd6764ed2b1fc36",
+    "url": "https://github.com/TurboWarp/desktop/releases/download/v1.10.1/TurboWarp-Portable-1.10.1-x64.exe",
     "bin":[
-        "TurboWarp-Portable-1.9.3-x64.exe"
+        "TurboWarp-Portable-1.10.1-x64.exe"
     ],
     "shortcuts": [
         [
-            "TurboWarp-Portable-1.9.3-x64.exe",
+            "TurboWarp-Portable-1.10.1-x64.exe",
             "TurboWarp"
         ]
     ],
