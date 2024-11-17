@@ -3,10 +3,10 @@
 	"url": "https://drive.google.com/uc?export=download&id=1pJVmzn-wUG4uNFkGP0RIynnC-Rb3h-FV",
 	"description": "Piskel",
 	"license": "Unknown",
-	"bin": "Piskel-0.14.0.exe",
+	"bin": "Piskel-0.14.0/Piskel-0.14.0.exe",
 	"shortcuts": [
 		[
-			"Piskel-0.14.0.exe",
+			"Piskel-0.14.0/Piskel-0.14.0.exe",
 			"Piskel"
 		]
 	]
