@@ -3,10 +3,10 @@
 	"url": "https://launcher-files.modrinth.com/versions/0.8.9/windows/Modrinth%20App_0.8.9_x64-setup.exe",
 	"description": "The Modrinth Minecraft launcher",
 	"license": "Unknown",
-	"bin": "PFiles/Modrinth App/Modrinth App.exe",
+	"bin": "Modrinth App.exe",
 	"shortcuts": [
 		[
-			"PFiles/Modrinth App/Modrinth App.exe",
+			"Modrinth App.exe",
 			"Modrinth"
 		]
 	]
